@@ -9,5 +9,4 @@ class SpringCore202412ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
