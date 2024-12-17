@@ -7,7 +7,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class StudentControllerTest {`
+class StudentControllerTest {
 
     @Test
     void test() {
